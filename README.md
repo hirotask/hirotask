@@ -1,7 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a full-stack software engineer.
-- 🌱 I’m currently learning go!
 - 📫 How to reach me: [X - @hirotask_](https://x.com/hirotask_)
 
 ## 💼 Carrier
